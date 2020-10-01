@@ -1,16 +1,24 @@
-### Hi there 👋
+### Well, glad to see you!
 
-<!--
-**Fray117/Fray117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Fray, Live in Osaka and currently learning about some Machine Learning 🌱. several people think that me was more capable in learning technology, but that may wrong because I was lack of passion nor motivation.
 
-Here are some ideas to get you started:
+![github stats](https://github-readme-stats.vercel.app/api?username=Fray117&show_icons=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Skills
+#### Programming Language
+* NodeJS
+* PHP
+* TypeScript
+* Python
+* Java
+
+#### Database
+* MySQL
+* SQLite
+* MongoDB
+* PostgreSQL
+
+#### Framework
+* JQuery
+* Laravel
+* Bootstrap
