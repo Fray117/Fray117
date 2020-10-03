@@ -23,3 +23,4 @@ I'm Fray, Live in Osaka and currently learning about some Machine Learning 🌱.
 * JQuery
 * Laravel
 * Bootstrap
+* WordPress
