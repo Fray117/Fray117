@@ -11,6 +11,7 @@ I'm Fray, Live in Osaka and currently learning about some Machine Learning 🌱.
 * TypeScript
 * Python
 * Java
+* C
 
 #### Database
 * MySQL
