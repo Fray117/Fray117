@@ -39,4 +39,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           author_email: ${{ secrets.GH_EMAIL }}
           author_name: Fray117
-          message: "update ($GITHUB_RUN_ID) ${date}"
+#           message: 'update ($GITHUB_RUN_ID) ${date}'
