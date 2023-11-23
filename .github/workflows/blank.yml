@@ -10,7 +10,7 @@ on:
   pull_request:
     branches: [ "main" ]
   schedule:
-    - cron: "30 5,9,12,15,21 * * *" # See https://crontab.guru/
+    - cron: "30 9,12,16 * * 1-5" # See https://crontab.guru/
   workflow_dispatch:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
